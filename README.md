@@ -2,8 +2,8 @@
 
 <h2>👨‍💻 Information Technology / Cyber Security Projects:</h2>
 
-  - [Active Directory, Domain Controller, and Group Policy with Virtual Machines](https://github.com/her-e/Active-Directory)
-  - [NTFS Permissions, Security Groups, and Group Policy]()
+  - [Active Directory, Domain Controller, and Group Policy Environment with Virtual Machines](https://github.com/her-e/Active-Directory)
+  - [NTFS Permissions, Identity & Access, Security Groups, and Group Policy]()
   - [Nessus Vulneralbility Management](https://github.com/her-e/VulnerabilityManagement-Nessus-Lab)
 
 
