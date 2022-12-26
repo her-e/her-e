@@ -5,7 +5,7 @@
   - [Active Directory, Domain Controller, and Group Policy Environment with Virtual Machines](https://github.com/her-e/Active-Directory)
   - [NTFS Permissions, Identity & Access, Security Groups, and Group Policy Environment]()
   - [Nessus Vulneralbility Management](https://github.com/her-e/VulnerabilityManagement-Nessus-Lab)
-
+  - [Azure Sentinel, SIEM Detection on Brute-force attacks]()
 
 
 ## 🤳 Connect with me:
