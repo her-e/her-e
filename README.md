@@ -3,7 +3,7 @@
 ## 👨‍💻 Information Technology / Cyber Security Projects:
 
   - [Active Directory, Domain Controller, Workstation, and Group Policy Environment with Virtual Machines.](https://github.com/her-e/Active-Directory)
-  - [NTFS Permissions, Identity & Access, Security Groups, and Group Policy Environment. (Editing)]()
+  - [NTFS Permissions, Identity & Access, Security Groups, and Group Policy Environment.](https://github.com/her-e/NTFS-Permission-Lab)
   - [Nessus Vulneralbility Management.](https://github.com/her-e/VulnerabilityManagement-Nessus-Lab)
   - [Azure Sentinel, SIEM Detection on Brute-force attacks. (Working on this soon)]()
 
